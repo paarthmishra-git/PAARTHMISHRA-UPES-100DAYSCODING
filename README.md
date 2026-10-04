@@ -1,439 +1,177 @@
-<a name="readme-top"></a>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=UPES%20100%20Days%20of%20Code&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%C2%B7%20UPES%20Dehradun&descAlignY=58&descSize=18" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Code+every+day.+No+excuses.;Consistency+beats+intensity.;Committing+Day+by+Day+%F0%9F%9A%80;Learning+C.+Building+habits." alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Days Completed](https://img.shields.io/badge/Days_Completed-43%2F100-36BCF7?style=for-the-badge&logo=target&logoColor=white)
-![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Progress-brightgreen?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=paarthmishra-git&label=Repo+Views&style=for-the-badge&color=blueviolet)
-
-<br/>
-
-<!-- Action buttons -->
-<a href="https://github.com/paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING/stargazers"><img src="https://img.shields.io/github/stars/paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING?style=social" alt="Star" /></a>
-&nbsp;
-<a href="https://github.com/paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING/fork"><img src="https://img.shields.io/github/forks/paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING?style=social" alt="Fork" /></a>
-&nbsp;
-<a href="https://github.com/paarthmishra-git"><img src="https://img.shields.io/github/followers/paarthmishra-git?style=social" alt="Follow" /></a>
-
-<br/><br/>
-
-**[🎯 About](#-about) · [📈 Progress](#-progress-tracker) · [🧩 Puzzles](#-guess-the-output) · [📅 Day Log](#-day-log) · [🗺 Roadmap](#-roadmap) · [📊 Stats](#-github-stats) · [❓ FAQ](#-faq) · [🤝 Connect](#-connect)**
-
-</div>
-
----
-
-## 🎯 About
-
-A **100-day coding challenge** from my B.Tech in Computer Science and Engineering at **UPES Dehradun**. The goal is simple: build a daily coding habit, sharpen problem-solving, and document everything publicly.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔥 Objectives
-- Code **100 days** in a row
-- Master programming fundamentals
-- Build and document in public
-
-</td>
-<td width="33%" valign="top">
-
-### 📏 Rules
-- Minimum **1 hour** per day
-- One commit for every day
-- No skipped days
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Focus Areas
-- Problem solving
-- Strings and arrays
-- Clean, commented code
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily quote" />
-
-</div>
-
-<details>
-<summary><b>🔁 My daily loop (click to open)</b></summary>
-
-```mermaid
-flowchart LR
-    A[🌅 Pick a problem] --> B[💻 Write the code]
-    B --> C{Works?}
-    C -- No --> D[🐞 Debug]
-    D --> B
-    C -- Yes --> E[📝 Add comments]
-    E --> F[🚀 Commit and push]
-    F --> G[🔁 Repeat tomorrow]
-```
-
-</details>
-
-<div align="right"><a href="#readme-top">⬆ back to top</a></div>
-
----
-
-## 📈 Progress Tracker
-
-```text
-Day 43 of 100
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱  43%
-```
-
-```mermaid
-pie showData title 100-Day Challenge
-    "Completed" : 43
-    "Remaining" : 57
-```
-
-### 🗓 100-Day Grid
-
-✅ = done · ⬜ = coming soon
-
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **1–10**   | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **11–20**  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **21–30**  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **31–40**  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **41–50**  | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| **51–60**  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| **61–70**  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| **71–80**  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| **81–90**  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| **91–100** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-
-### 🏁 Milestones
-
-- [x] 🌱 **Day 1**: Started the challenge
-- [x] 🔟 **Day 10**: First 10 days done
-- [x] 2️⃣5️⃣ **Day 25**: Quarter of the way
-- [ ] 5️⃣0️⃣ **Day 50**: Halfway point
-- [ ] 7️⃣5️⃣ **Day 75**: Final stretch
-- [ ] 💯 **Day 100**: Challenge complete
-
-<div align="right"><a href="#readme-top">⬆ back to top</a></div>
-
----
-
-## 🧩 Guess the Output
-
-Try to work it out in your head first, then click to reveal the answer.
-
-<details>
-<summary><b>Puzzle 1 · Easy 🟢</b></summary>
-
-```c
-char s[] = "hello";
-s[0] = 'J';
-printf("%s\n", s);
-```
-
-<details>
-<summary>👀 Reveal answer</summary>
-
-**`Jello`**. Because `s` is a `char` array (a modifiable copy), you can change its characters. With `char *s = "hello";` the same edit would be undefined behaviour.
-
-</details>
-</details>
-
-<details>
-<summary><b>Puzzle 2 · Medium 🟡</b></summary>
-
-```c
-printf("%zu\n", sizeof("abc"));
-```
-
-<details>
-<summary>👀 Reveal answer</summary>
-
-**`4`**. A string literal includes the hidden `'\0'` terminator, so `"abc"` takes 4 bytes.
-
-</details>
-</details>
-
-<details>
-<summary><b>Puzzle 3 · Medium 🟡</b></summary>
-
-```c
-int a[] = {10, 20, 30};
-printf("%d\n", *(a + 1));
-```
-
-<details>
-<summary>👀 Reveal answer</summary>
-
-**`20`**. `a + 1` points at the second element, and `*` reads its value. In other words, `*(a + 1)` is the same as `a[1]`.
-
-</details>
-</details>
-
-<div align="right"><a href="#readme-top">⬆ back to top</a></div>
-
----
-
-## 📅 Day Log
-
-> Click a block to expand it. 👇
-
-<details open>
-<summary><b>🟢 Days 41 – 43 · Strings (latest)</b></summary>
-<br/>
-
-| Day | Program | Concept |
-|:---:|:--------|:--------|
-| 43 | [`day43q1.c`](./day43q1.c) | Count spaces, digits and special characters in a string |
-| 43 | [`day43q2.c`](./day43q2.c) | String practice |
-| 42 | [`day42q1.c`](./day42q1.c) · [`day42q2.c`](./day42q2.c) | String practice |
-| 41 | [`day41a.c`](./day41a.c) · [`day41b.c`](./day41b.c) · [`day41c.c`](./day41c.c) | String practice |
-| 41 | [`day41q1.c`](./day41q1.c) · [`day41q2.c`](./day41q2.c) | String practice |
-
-</details>
-
-<details>
-<summary><b>🔵 Days 31 – 40</b></summary>
-<br/>
-
-| Day | Program | Concept |
-|:---:|:--------|:--------|
-| 40 | [`day40q2.c`](./day40q2.c) | _add topic_ |
-| … | … | … |
-
-</details>
-
-<details>
-<summary><b>🟣 Days 1 – 30</b></summary>
-<br/>
-
-| Day | Program | Concept |
-|:---:|:--------|:--------|
-| 7 | [`day7q1.c`](./day7q1.c) · [`day7q2.c`](./day7q2.c) | _add topic_ |
-| 6 | [`day6q1.c`](./day6q1.c) · [`day6q2.c`](./day6q2.c) | _add topic_ |
-| 5 | [`day5q1.c`](./day5q1.c) · [`day5q2.c`](./day5q2.c) | _add topic_ |
-| 4 | [`day4q1.c`](./day4q1.c) · [`day4q2.c`](./day4q2.c) | _add topic_ |
-| … | … | … |
-
-</details>
-
-<details>
-<summary><b>💡 Featured snippet: Day 43 (character counter)</b></summary>
-
-```c
-//Count the number of spaces, digits, and special characters in a string.
-#include <stdio.h>
-#include <ctype.h>
-
-int main() {
-    char str[100];
-    int spaces = 0, digits = 0, special = 0;
-
-    printf("Enter a string: ");
-    fgets(str, sizeof(str), stdin);
-
-    for (int i = 0; str[i] != '\0'; i++) {
-        if (str[i] == '\n' || str[i] == '\r') {
-            continue;  // ignore newline from fgets
-        }
-
-        if (str[i] == ' ') {
-            spaces++;
-        } else if (isdigit((unsigned char)str[i])) {
-            digits++;
-        } else if (!isalpha((unsigned char)str[i])) {
-            special++;
-        }
-    }
-
-    printf("Spaces: %d\n", spaces);
-    printf("Digits: %d\n", digits);
-    printf("Special characters: %d\n", special);
-    return 0;
-}
-```
-
-</details>
-
-<div align="right"><a href="#readme-top">⬆ back to top</a></div>
-
----
-
-## 🗺 Roadmap
-
-<details open>
-<summary><b>Skill map (what I've covered and what's next)</b></summary>
-
-```mermaid
-mindmap
-  root((100 Days of C))
-    Basics
-      Variables
-      Conditions
-      Loops
-    Arrays
-    Strings
-      fgets
-      ctype.h
-      Character counting
-    Up next
-      Functions
-      Pointers
-      Structures
-      File handling
-```
-
-</details>
-
-<div align="right"><a href="#readme-top">⬆ back to top</a></div>
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=paarthmishra-git&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarthmishra-git&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=paarthmishra-git&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=paarthmishra-git&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paarthmishra-git&theme=tokyo-night&hide_border=true" alt="activity graph" />
-
-<br/><br/>
-
-<!-- Needs the snake workflow (.github/workflows/snake.yml). Run it once to generate the image. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<div align="right"><a href="#readme-top">⬆ back to top</a></div>
-
----
-
-## ▶️ Run Any Program
-
-<details>
-<summary><b>Compile and run steps</b></summary>
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING.git
-cd PAARTHMISHRA-UPES-100DAYSCODING
-
-# 2. Compile any file
-gcc day43q1.c -o day43q1
-
-# 3. Run it
-./day43q1          # Linux / macOS
-day43q1.exe        # Windows
-```
-
-</details>
-
-<details>
-<summary><b>No compiler? Try it online</b></summary>
-
-Copy any `.c` file into [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) or [Compiler Explorer](https://godbolt.org/) and run it in your browser.
-
-</details>
-
----
-
-## ❓ FAQ
-
-<details>
-<summary><b>What does <code>day43q1.c</code> mean?</b></summary>
-
-`day<N>q<M>.c` means Day **N**, Question **M**. So `day43q1.c` is Day 43, Question 1.
-
-</details>
-
-<details>
-<summary><b>Can I use this code?</b></summary>
-
-Yes. Feel free to read, run, and learn from it. If it helps, a ⭐ is appreciated.
-
-</details>
-
-<details>
-<summary><b>Want to join the challenge?</b></summary>
-
-Fork this repo, rename it with your name, and start your own 100 days. Open an issue and tell me when you begin.
-
-</details>
-
-<details>
-<summary><b>Found a bug or a better solution?</b></summary>
-
-[Open an issue](https://github.com/paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING/issues/new) or send a pull request.
-
-</details>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-paarthmishra--git-181717?style=for-the-badge&logo=github)](https://github.com/paarthmishra-git)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--name-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-
-<br/>
-
-### ⭐ Star history
-
-<a href="https://star-history.com/#paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING&Date">
-  <img src="https://api.star-history.com/svg?repos=paarthmishra-git/PAARTHMISHRA-UPES-100DAYSCODING&type=Date" alt="Star history" width="500" />
-</a>
-
-<br/>
-
-**If this repo motivates you, drop a star and start your own 100-day streak!**
-
-<a href="#readme-top">⬆ back to top</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
-
-</div>
+"""
+Regenerates docs/banner.svg and docs/grid.svg for the 100 Days of C README.
+
+Every day:  1) change DAYS (and LATEST) below
+            2) run:  python make_assets.py
+            3) commit docs/banner.svg and docs/grid.svg
+"""
+import os
+
+# ---------------- edit these ----------------
+DAYS = 43            # days completed so far
+LATEST = "strings"   # topic of the latest day
+SKIPPED = 0          # days skipped
+TOTAL = 100
+# --------------------------------------------
+
+ANIM = os.environ.get("STATIC") != "1"   # STATIC=1 gives a non-animated preview
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT = os.environ.get("OUT") or os.path.join(HERE, "docs")
+os.makedirs(OUT, exist_ok=True)
+
+FONT = "'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace"
+BG, PANEL, LINE = "#0d1117", "#161b22", "#30363d"
+TXT, DIM, GREEN, AMBER, BLUE = "#c9d1d9", "#8b949e", "#3fb950", "#d29922", "#58a6ff"
+DUR = 12  # seconds per banner loop
+
+
+def fade(t0):
+    """Opacity animation: hidden, appears at t0, holds, fades out, loops."""
+    if not ANIM:
+        return ""
+    return (f'<animate attributeName="opacity" dur="{DUR}s" repeatCount="indefinite" '
+            f'values="0;0;1;1;0;0" keyTimes="0;{t0};{t0 + 0.02:.2f};0.94;0.98;1"/>')
+
+
+def op():
+    return 'opacity="0"' if ANIM else 'opacity="1"'
+
+
+# =============================== BANNER ===============================
+def banner():
+    bar_w = 440
+    fill_w = bar_w * DAYS / TOTAL
+    pct = round(DAYS * 100 / TOTAL)
+
+    wipe = ""
+    cursor = ""
+    if ANIM:
+        wipe = ('<animate attributeName="width" dur="12s" repeatCount="indefinite" '
+                'values="0;0;480;480;0" keyTimes="0;0.08;0.33;0.97;1"/>')
+        cursor = ('<rect x="70" y="180" width="10" height="20" fill="#c9d1d9">'
+                  '<animate attributeName="x" dur="12s" repeatCount="indefinite" '
+                  'values="70;70;550;550;70" keyTimes="0;0.08;0.33;0.97;1"/>'
+                  '<animate attributeName="opacity" dur="12s" repeatCount="indefinite" '
+                  'values="1;1;1;0;0;1" keyTimes="0;0.08;0.33;0.34;0.99;1"/></rect>')
+    bar_anim = ""
+    if ANIM:
+        bar_anim = (f'<animate attributeName="width" dur="12s" repeatCount="indefinite" '
+                    f'values="0;0;{fill_w:.1f};{fill_w:.1f};0;0" keyTimes="0;0.36;0.50;0.94;0.98;1"/>')
+    blink = ""
+    if ANIM:
+        blink = ('<animate attributeName="opacity" dur="1s" repeatCount="indefinite" '
+                 'values="1;1;0;0" keyTimes="0;0.5;0.5;1" calcMode="discrete"/>')
+
+    rows = [
+        ("language", "C", BLUE, 0.40),
+        ("streak", f"{DAYS} days, {SKIPPED} skipped", TXT, 0.44),
+        ("latest", f"day {DAYS} · {LATEST}", TXT, 0.48),
+        ("status", "in progress", GREEN, 0.52),
+    ]
+    row_svg = ""
+    for i, (k, v, c, t0) in enumerate(rows):
+        y = 258 + i * 24
+        row_svg += (f'<g {op()}>{fade(t0)}'
+                    f'<text x="48" y="{y}" font-size="16" fill="{DIM}">{k}</text>'
+                    f'<text x="150" y="{y}" font-size="16" fill="{c}" font-weight="bold">{v}</text></g>\n')
+
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 396" width="900" height="396" role="img" aria-label="Terminal running the challenge program: {DAYS} of {TOTAL} days complete">
+<defs><clipPath id="wipe"><rect x="70" y="176" height="28" width="{'0' if ANIM else '480'}">{wipe}</rect></clipPath></defs>
+<g font-family="{FONT}">
+<rect x="10" y="10" width="880" height="376" rx="14" fill="{BG}" stroke="{LINE}" stroke-width="2"/>
+<path d="M10,54 V24 a14,14 0 0 1 14,-14 H876 a14,14 0 0 1 14,14 V54 Z" fill="{PANEL}"/>
+<line x1="10" y1="54" x2="890" y2="54" stroke="{LINE}"/>
+<circle cx="36" cy="32" r="6" fill="#ff5f56"/><circle cx="58" cy="32" r="6" fill="#ffbd2e"/><circle cx="80" cy="32" r="6" fill="#27c93f"/>
+<text x="450" y="37" text-anchor="middle" font-size="14" fill="{DIM}">paarth@upes: ~/100-days-of-c</text>
+
+<text x="48" y="118" font-size="46" font-weight="bold" fill="#e6edf3" letter-spacing="4">100 DAYS OF C</text>
+<text x="48" y="148" font-size="16" fill="{DIM}">B.Tech CSE · UPES Dehradun · one commit a day, no skipped days</text>
+<line x1="48" y1="166" x2="852" y2="166" stroke="{LINE}" stroke-dasharray="6 6"/>
+
+<text x="48" y="198" font-size="18" fill="{GREEN}">$</text>
+<text x="70" y="198" font-size="18" fill="{TXT}" clip-path="url(#wipe)">gcc challenge.c -o challenge &amp;&amp; ./challenge</text>
+{cursor}
+
+<g {op()}>{fade(0.36)}
+<text x="48" y="228" font-size="16" fill="{DIM}">progress</text>
+<rect x="150" y="216" width="{bar_w}" height="14" rx="7" fill="{PANEL}" stroke="{LINE}"/>
+<rect x="150" y="216" width="{'0' if ANIM else f'{fill_w:.1f}'}" height="14" rx="7" fill="{GREEN}">{bar_anim}</rect>
+<text x="606" y="228" font-size="16" fill="{TXT}" font-weight="bold">{DAYS}/{TOTAL}  ({pct}%)</text>
+</g>
+{row_svg}
+<g {op()}>{fade(0.56)}
+<text x="48" y="366" font-size="18" fill="{GREEN}">$</text>
+<rect x="70" y="351" width="10" height="20" fill="{TXT}">{blink}</rect>
+</g>
+</g>
+</svg>
+'''
+
+
+# ================================ GRID ================================
+def grid():
+    cw, ch, gap = 64, 40, 8
+    gx, gy = 130, 104
+    tiers = ["#0e4429", "#0f5132", "#006d32", "#1f883d", "#2ea043"]
+    milestones = {10, 25, 50, 75, 100}
+    cells = ""
+    for d in range(1, TOTAL + 1):
+        r, c = divmod(d - 1, 10)
+        x, y = gx + c * (cw + gap), gy + r * (ch + gap)
+        cx, cy = x + cw / 2, y + ch / 2 + 5
+        if d < DAYS + 1 and d != DAYS:
+            fill, stroke, tcol, dash = tiers[min(r, 4)], "none", "#ffffff", ""
+        elif d == DAYS:
+            fill, stroke, tcol, dash = AMBER, "none", BG, ""
+        else:
+            fill, stroke, tcol = PANEL, LINE, "#6e7681"
+            dash = f' stroke-dasharray="4 3"' if d in milestones else ""
+            if d in milestones:
+                stroke = AMBER
+        done = d <= DAYS
+        begin = f"{0.2 + d * 0.03:.2f}s"
+        anim = (f'<animate attributeName="opacity" from="0" to="1" begin="{begin}" dur="0.3s" fill="freeze"/>'
+                if (ANIM and done) else "")
+        o = ('opacity="0"' if (ANIM and done) else "")
+        weight = ' font-weight="bold"' if d == DAYS else ""
+        cells += (f'<g {o}>{anim}<rect x="{x}" y="{y}" width="{cw}" height="{ch}" rx="6" fill="{fill}" '
+                  f'stroke="{stroke}" stroke-width="1.5"{dash}/>'
+                  f'<text x="{cx}" y="{cy}" text-anchor="middle" font-size="15" fill="{tcol}"{weight}>{d}</text>')
+        if d in milestones:
+            cells += f'<circle cx="{x + cw - 9}" cy="{y + 9}" r="3.5" fill="{AMBER}"/>'
+        cells += '</g>\n'
+        if d == DAYS and ANIM:
+            cells += (f'<rect x="{x - 3}" y="{y - 3}" width="{cw + 6}" height="{ch + 6}" rx="9" fill="none" '
+                      f'stroke="{AMBER}" stroke-width="2"><animate attributeName="stroke-opacity" '
+                      f'values="1;0.15;1" dur="1.8s" repeatCount="indefinite"/></rect>\n')
+
+    labels = "".join(
+        f'<text x="108" y="{gy + r * (ch + gap) + ch / 2 + 5}" text-anchor="end" font-size="13" fill="{DIM}">days[{r * 10}]</text>\n'
+        for r in range(10))
+
+    ly = gy + 10 * (ch + gap) + 22
+    legend = (f'<rect x="130" y="{ly}" width="18" height="14" rx="3" fill="{tiers[2]}"/>'
+              f'<text x="156" y="{ly + 12}" font-size="13" fill="{DIM}">written</text>'
+              f'<rect x="236" y="{ly}" width="18" height="14" rx="3" fill="{AMBER}"/>'
+              f'<text x="262" y="{ly + 12}" font-size="13" fill="{DIM}">today</text>'
+              f'<rect x="326" y="{ly}" width="18" height="14" rx="3" fill="{PANEL}" stroke="{LINE}"/>'
+              f'<text x="352" y="{ly + 12}" font-size="13" fill="{DIM}">uninitialized</text>'
+              f'<circle cx="474" cy="{ly + 7}" r="3.5" fill="{AMBER}"/>'
+              f'<text x="486" y="{ly + 12}" font-size="13" fill="{DIM}">milestone (10, 25, 50, 75, 100)</text>')
+    H = ly + 40
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 {H}" width="900" height="{H}" role="img" aria-label="Grid of 100 days with {DAYS} completed">
+<g font-family="{FONT}">
+<rect x="10" y="10" width="880" height="{H - 20}" rx="14" fill="{BG}" stroke="{LINE}" stroke-width="2"/>
+<text x="48" y="52" font-size="20" fill="{TXT}"><tspan fill="{BLUE}">int</tspan> days[{TOTAL}];</text>
+<text x="48" y="78" font-size="15" fill="{DIM}">// {DAYS} written, {TOTAL - DAYS} uninitialized</text>
+{labels}{cells}{legend}
+</g>
+</svg>
+'''
+
+
+with open(os.path.join(OUT, "banner.svg"), "w", encoding="utf-8") as f:
+    f.write(banner())
+with open(os.path.join(OUT, "grid.svg"), "w", encoding="utf-8") as f:
+    f.write(grid())
+print("wrote", OUT)
