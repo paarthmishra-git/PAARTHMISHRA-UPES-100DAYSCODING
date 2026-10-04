@@ -477,7 +477,7 @@ Fork this repo, rename it with your name, and start your own 100 days. Open an i
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-paarthmishra--git-181717?style=for-the-badge&logo=github)](https://github.com/paarthmishra-git)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--name-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--name-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paarth-mishra-691723366/)
 
 <br/>
 
