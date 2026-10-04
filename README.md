@@ -163,46 +163,10 @@ printf("%d\n", *(a + 1));
 <a name="day-log"></a>
 ## `printf("%s", day_log);`
 
-> Click a block to expand it. 👇
+> Built automatically from the `dayNqM.c` files in this repo. Click a block to expand it. 👇
 
-<details open>
-<summary><b>🟢 Days 41 – 43 · Strings (latest)</b></summary>
-<br/>
-
-| Day | Program | Concept |
-|:---:|:--------|:--------|
-| 43 | [`day43q1.c`](./day43q1.c) | Count spaces, digits and special characters in a string |
-| 43 | [`day43q2.c`](./day43q2.c) | String practice |
-| 42 | [`day42q1.c`](./day42q1.c) · [`day42q2.c`](./day42q2.c) | String practice |
-| 41 | [`day41a.c`](./day41a.c) · [`day41b.c`](./day41b.c) · [`day41c.c`](./day41c.c) | String practice |
-| 41 | [`day41q1.c`](./day41q1.c) · [`day41q2.c`](./day41q2.c) | String practice |
-
-</details>
-
-<details>
-<summary><b>🔵 Days 31 – 40</b></summary>
-<br/>
-
-| Day | Program | Concept |
-|:---:|:--------|:--------|
-| 40 | [`day40q2.c`](./day40q2.c) | _add topic_ |
-| … | … | … |
-
-</details>
-
-<details>
-<summary><b>🟣 Days 1 – 30</b></summary>
-<br/>
-
-| Day | Program | Concept |
-|:---:|:--------|:--------|
-| 7 | [`day7q1.c`](./day7q1.c) · [`day7q2.c`](./day7q2.c) | _add topic_ |
-| 6 | [`day6q1.c`](./day6q1.c) · [`day6q2.c`](./day6q2.c) | _add topic_ |
-| 5 | [`day5q1.c`](./day5q1.c) · [`day5q2.c`](./day5q2.c) | _add topic_ |
-| 4 | [`day4q1.c`](./day4q1.c) · [`day4q2.c`](./day4q2.c) | _add topic_ |
-| … | … | … |
-
-</details>
+<!-- DAYLOG:START -->
+<!-- DAYLOG:END -->
 
 <details>
 <summary><b>💡 Featured snippet: Day 43 (character counter)</b></summary>
