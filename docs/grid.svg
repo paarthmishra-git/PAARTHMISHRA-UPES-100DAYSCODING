@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 646" width="900" height="646" role="img" aria-label="Grid of 100 days with 45 completed">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 646" width="900" height="646" role="img" aria-label="Grid of 100 days with 46 completed">
 <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
 <rect x="10" y="10" width="880" height="626" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <text x="48" y="52" font-size="20" fill="#c9d1d9"><tspan fill="#58a6ff">int</tspan> days[100];</text>
-<text x="48" y="78" font-size="15" fill="#8b949e">// 45 written, 55 uninitialized</text>
+<text x="48" y="78" font-size="15" fill="#8b949e">// 46 written, 54 uninitialized</text>
 <text x="108" y="129.0" text-anchor="end" font-size="13" fill="#8b949e">days[0]</text>
 <text x="108" y="177.0" text-anchor="end" font-size="13" fill="#8b949e">days[10]</text>
 <text x="108" y="225.0" text-anchor="end" font-size="13" fill="#8b949e">days[20]</text>
@@ -57,9 +57,9 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.46s" dur="0.3s" fill="freeze"/><rect x="202" y="296" width="64" height="40" rx="6" fill="#2ea043" stroke="none" stroke-width="1.5"/><text x="234.0" y="321.0" text-anchor="middle" font-size="15" fill="#ffffff">42</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.49s" dur="0.3s" fill="freeze"/><rect x="274" y="296" width="64" height="40" rx="6" fill="#2ea043" stroke="none" stroke-width="1.5"/><text x="306.0" y="321.0" text-anchor="middle" font-size="15" fill="#ffffff">43</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.52s" dur="0.3s" fill="freeze"/><rect x="346" y="296" width="64" height="40" rx="6" fill="#2ea043" stroke="none" stroke-width="1.5"/><text x="378.0" y="321.0" text-anchor="middle" font-size="15" fill="#ffffff">44</text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.3s" fill="freeze"/><rect x="418" y="296" width="64" height="40" rx="6" fill="#d29922" stroke="none" stroke-width="1.5"/><text x="450.0" y="321.0" text-anchor="middle" font-size="15" fill="#0d1117" font-weight="bold">45</text></g>
-<rect x="415" y="293" width="70" height="46" rx="9" fill="none" stroke="#d29922" stroke-width="2"><animate attributeName="stroke-opacity" values="1;0.15;1" dur="1.8s" repeatCount="indefinite"/></rect>
-<g ><rect x="490" y="296" width="64" height="40" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="522.0" y="321.0" text-anchor="middle" font-size="15" fill="#6e7681">46</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.3s" fill="freeze"/><rect x="418" y="296" width="64" height="40" rx="6" fill="#2ea043" stroke="none" stroke-width="1.5"/><text x="450.0" y="321.0" text-anchor="middle" font-size="15" fill="#ffffff">45</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.3s" fill="freeze"/><rect x="490" y="296" width="64" height="40" rx="6" fill="#d29922" stroke="none" stroke-width="1.5"/><text x="522.0" y="321.0" text-anchor="middle" font-size="15" fill="#0d1117" font-weight="bold">46</text></g>
+<rect x="487" y="293" width="70" height="46" rx="9" fill="none" stroke="#d29922" stroke-width="2"><animate attributeName="stroke-opacity" values="1;0.15;1" dur="1.8s" repeatCount="indefinite"/></rect>
 <g ><rect x="562" y="296" width="64" height="40" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="594.0" y="321.0" text-anchor="middle" font-size="15" fill="#6e7681">47</text></g>
 <g ><rect x="634" y="296" width="64" height="40" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="666.0" y="321.0" text-anchor="middle" font-size="15" fill="#6e7681">48</text></g>
 <g ><rect x="706" y="296" width="64" height="40" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="738.0" y="321.0" text-anchor="middle" font-size="15" fill="#6e7681">49</text></g>
