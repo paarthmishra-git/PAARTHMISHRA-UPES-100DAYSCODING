@@ -173,6 +173,7 @@ printf("%d\n", *(a + 1));
 | Day | Program | Concept |
 |:---:|:--------|:--------|
 | 46 | [`day46q1.c`](./day46q1.c) | Print all substrings of a string |
+| 46 | [`day46q2.c`](./day46q2.c) | Write a Program to take a sorted array(say nums[]) and an integ… |
 | 45 | [`day45q1.c`](./day45q1.c) | Find the first repeating lowercase alphabet in a string. |
 | 45 | [`day45q2.c`](./day45q2.c) | Change the date format from dd/04/yyyy to dd-Apr-yyyy. |
 | 44 | [`day44q1.c`](./day44q1.c) | Count how many times a given character appears in a string. |
