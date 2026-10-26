@@ -23,7 +23,7 @@
 </g>
 <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.4;0.42;0.94;0.98;1"/><text x="48" y="258" font-size="16" fill="#8b949e">language</text><text x="150" y="258" font-size="16" fill="#58a6ff" font-weight="bold">C</text></g>
 <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.44;0.46;0.94;0.98;1"/><text x="48" y="282" font-size="16" fill="#8b949e">streak</text><text x="150" y="282" font-size="16" fill="#c9d1d9" font-weight="bold">47 days, 0 skipped</text></g>
-<g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.48;0.50;0.94;0.98;1"/><text x="48" y="306" font-size="16" fill="#8b949e">latest</text><text x="150" y="306" font-size="16" fill="#c9d1d9" font-weight="bold">day 47 · Write a Program to take a sorted array arr[] and an…</text></g>
+<g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.48;0.50;0.94;0.98;1"/><text x="48" y="306" font-size="16" fill="#8b949e">latest</text><text x="150" y="306" font-size="16" fill="#c9d1d9" font-weight="bold">day 47 · Write a Program to take an array of integers as inp…</text></g>
 <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.52;0.54;0.94;0.98;1"/><text x="48" y="330" font-size="16" fill="#8b949e">status</text><text x="150" y="330" font-size="16" fill="#3fb950" font-weight="bold">in progress</text></g>
 
 <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.56;0.58;0.94;0.98;1"/>
