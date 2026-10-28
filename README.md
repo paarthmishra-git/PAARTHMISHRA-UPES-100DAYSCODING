@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="docs/banner.svg" alt="Terminal running the challenge program: 48 of 100 days complete" width="900">
+<img src="docs/banner.svg" alt="Terminal running the challenge program: 49 of 100 days complete" width="900">
 
 <br>
 
@@ -38,7 +38,7 @@ const Challenge me = {
     .college    = "UPES Dehradun",
     .course     = "B.Tech CSE",
     .days_total = 100,
-    .days_done  = 48,
+    .days_done  = 49,
 };
 
 #define MIN_HOURS_PER_DAY  1   // at least an hour, every day
@@ -78,14 +78,14 @@ while (day <= 100) {
 ## `int days[100];`
 
 <div align="center">
-<img src="docs/grid.svg" alt="Grid of 100 days: 48 written, 52 uninitialized" width="860">
+<img src="docs/grid.svg" alt="Grid of 100 days: 49 written, 51 uninitialized" width="860">
 </div>
 
 <br>
 
 ```c
 for (int day = 1; day <= 100; day++) {
-    if (day <= 48) commit("done");
+    if (day <= 49) commit("done");
     else           /* not written yet */ ;
 }
 ```
@@ -167,11 +167,12 @@ printf("%d\n", *(a + 1));
 
 <!-- DAYLOG:START -->
 <details open>
-<summary><b>🟢 Days 41 – 48 (latest)</b></summary>
+<summary><b>🟢 Days 41 – 49 (latest)</b></summary>
 <br/>
 
 | Day | Program | Concept |
 |:---:|:--------|:--------|
+| 49 | [`day49q1.c`](./day49q1.c) | Write a program to take an integer array arr and an integer k a… |
 | 48 | [`day48q1.c`](./day48q1.c) | Write a Program to take a positive integer n as input, and find… |
 | 48 | [`day48q2.c`](./day48q2.c) | Write a Program to take an integer array nums. Print an array a… |
 | 47 | [`day47q1.c`](./day47q1.c) | Write a Program to take a sorted array arr[] and an integer x a… |
@@ -496,7 +497,7 @@ Fork this repo, rename it with your name, and start your own 100 days. Open an i
 
 ```c
     // if this repo motivates you, drop a star and start your own 100 days
-    return 0;   // see you on day 49
+    return 0;   // see you on day 50
 }
 ```
 

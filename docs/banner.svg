@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 396" width="900" height="396" role="img" aria-label="Terminal running the challenge program: 48 of 100 days complete">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 396" width="900" height="396" role="img" aria-label="Terminal running the challenge program: 49 of 100 days complete">
 <defs><clipPath id="wipe"><rect x="70" y="176" height="28" width="0"><animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;480;480;0" keyTimes="0;0.08;0.33;0.97;1"/></rect></clipPath></defs>
 <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
 <rect x="10" y="10" width="880" height="376" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
@@ -18,12 +18,12 @@
 <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.36;0.38;0.94;0.98;1"/>
 <text x="48" y="228" font-size="16" fill="#8b949e">progress</text>
 <rect x="150" y="216" width="440" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
-<rect x="150" y="216" width="0" height="14" rx="7" fill="#3fb950"><animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;211.2;211.2;0;0" keyTimes="0;0.36;0.50;0.94;0.98;1"/></rect>
-<text x="606" y="228" font-size="16" fill="#c9d1d9" font-weight="bold">48/100  (48%)</text>
+<rect x="150" y="216" width="0" height="14" rx="7" fill="#3fb950"><animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;215.6;215.6;0;0" keyTimes="0;0.36;0.50;0.94;0.98;1"/></rect>
+<text x="606" y="228" font-size="16" fill="#c9d1d9" font-weight="bold">49/100  (49%)</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.4;0.42;0.94;0.98;1"/><text x="48" y="258" font-size="16" fill="#8b949e">language</text><text x="150" y="258" font-size="16" fill="#58a6ff" font-weight="bold">C</text></g>
-<g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.44;0.46;0.94;0.98;1"/><text x="48" y="282" font-size="16" fill="#8b949e">streak</text><text x="150" y="282" font-size="16" fill="#c9d1d9" font-weight="bold">48 days, 0 skipped</text></g>
-<g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.48;0.50;0.94;0.98;1"/><text x="48" y="306" font-size="16" fill="#8b949e">latest</text><text x="150" y="306" font-size="16" fill="#c9d1d9" font-weight="bold">day 48 · Write a Program to take an integer array nums. Prin…</text></g>
+<g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.44;0.46;0.94;0.98;1"/><text x="48" y="282" font-size="16" fill="#8b949e">streak</text><text x="150" y="282" font-size="16" fill="#c9d1d9" font-weight="bold">49 days, 0 skipped</text></g>
+<g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.48;0.50;0.94;0.98;1"/><text x="48" y="306" font-size="16" fill="#8b949e">latest</text><text x="150" y="306" font-size="16" fill="#c9d1d9" font-weight="bold">day 49 · Write a program to take an integer array arr and an…</text></g>
 <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.52;0.54;0.94;0.98;1"/><text x="48" y="330" font-size="16" fill="#8b949e">status</text><text x="150" y="330" font-size="16" fill="#3fb950" font-weight="bold">in progress</text></g>
 
 <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.56;0.58;0.94;0.98;1"/>
