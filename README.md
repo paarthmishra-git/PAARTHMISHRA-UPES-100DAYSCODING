@@ -173,6 +173,7 @@ printf("%d\n", *(a + 1));
 | Day | Program | Concept |
 |:---:|:--------|:--------|
 | 48 | [`day48q1.c`](./day48q1.c) | Write a Program to take a positive integer n as input, and find… |
+| 48 | [`day48q2.c`](./day48q2.c) | Write a Program to take an integer array nums. Print an array a… |
 | 47 | [`day47q1.c`](./day47q1.c) | Write a Program to take a sorted array arr[] and an integer x a… |
 | 47 | [`day47q2.c`](./day47q2.c) | Write a Program to take an array of integers as input, calculat… |
 | 46 | [`day46q1.c`](./day46q1.c) | Print all substrings of a string |
